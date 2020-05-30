@@ -1,0 +1,208 @@
+body {
+
+    
+    background-color: rgb(249,246,227);
+
+}
+
+h1{
+
+text-align:center;
+color:rgb(192,58,30);
+justify-content:space-evenly;
+
+
+
+}
+
+h2{
+
+color:rgb(192,58,30);
+margin-left:35%;
+
+
+}
+
+.header{
+
+
+
+display: flex;
+
+flex-wrap:wrap;
+
+}
+
+
+
+.catagories{
+
+    display: flex;
+
+    flex-wrap:wrap;
+    
+    justify-content:space-evenly;
+
+background-color:rgb(236,101,6);
+
+
+}
+
+
+
+ .education{
+
+
+
+display:flex;
+
+justify-content:center;
+
+
+
+
+ }
+
+ h3{
+
+
+color:black;
+
+display:flex;
+
+justify-content:center;
+
+background-color:rgb(198,52,30);
+
+ }
+
+.division{
+
+    display: flex;
+
+    flex-wrap:wrap;
+    
+    
+    justify-content:space-evenly;
+
+
+} 
+
+a:visited{
+
+color:white;
+
+    
+}
+
+#catagory{
+
+    text-decoration: none;
+    
+    }
+
+.catagory1:hover a{
+
+    color:orange;
+
+}
+
+.catagory2:hover a{
+
+    color:orange;
+
+}
+
+.catagory3:hover a{
+
+    color:orange;
+
+}
+
+.catagory4:hover a{
+
+    color:orange;
+
+}
+
+.catagory5:hover a{
+
+    color:orange;
+
+}
+
+.catagory6:hover a{
+
+    color:orange;
+
+}
+
+.catagory7:hover a{
+
+    color:orange;
+
+}
+
+.catagory8:hover a{
+
+    color:orange;
+
+}
+
+.catagory9:hover a{
+
+    color:orange;
+
+}
+
+.extras{
+
+
+    opacity:1;
+
+}
+.extra1:hover img{
+
+    opacity:0.5;
+}
+
+.extra2:hover img{
+
+    opacity:0.5;
+
+}
+
+
+
+.parts{
+
+    display: flex;
+
+    flex-wrap:wrap;
+    
+    justify-content:space-evenly;
+
+
+
+}
+
+.footer{
+
+
+    
+    
+    background-color:rgb(255,125,1);
+    
+
+
+
+
+}
+
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
